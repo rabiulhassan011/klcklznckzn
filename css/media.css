@@ -1,0 +1,430 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .btn1 {
+        margin-left: 45%;
+    }
+
+    .crowd_right h2 {
+        font-family: 'Lora', serif;
+        font-size: 25px;
+        font-weight: bold;
+        padding: 0px 0;
+    }
+    .crowd_right h5 {
+        font-family: 'Lora', serif;
+        font-size: 24px;
+        font-weight: bold;
+    }
+    .logo_img {
+        padding-left: 50px;
+    }
+    .custom_nav ul li a {
+        color: black !important;
+        font-size: 20px;
+        font-weight: bold;
+
+    }
+    .menu_bar h1 {
+        font-size: 14px;
+        color: black;
+        font-weight: bold;
+        padding: 33px 0;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+    .logo_img {
+        margin-left: 68px;
+    }
+
+    .last_part h1 {
+        position: absolute;
+        font-size: 14px;
+        color: white;
+        font-weight: bold;
+    }
+    .btn2 {
+        border: none;
+        background: white;
+        font-size: 25px;
+        font-weight: bold;
+        border-radius: 5px;
+        margin-top: 4px;
+        margin-left: 100px;
+    }
+    .crowd_right h2 {
+
+        font-family: 'Lora', serif;
+        font-size: 20px;
+        font-weight: bold;
+
+    }
+    .crowd_right h5 {
+
+        font-family: 'Lora', serif;
+        font-size: 20px;
+        font-weight: bold;
+
+    }
+    .menu_bar h1 {
+        font-size: 10px;
+        color: black;
+        font-weight: bold;
+        padding: 33px 0;
+    }
+    .crowd_img {
+        min-height: 300px;
+        padding: 30px 0;
+    }
+    .lleft h2 {
+        color: #E3000F;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .lleft h1 {
+
+        color: black;
+        font-size: 10px;
+        font-weight: bold;
+
+    }
+    .lmiddle h1 {
+        color: #E3000F;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .lmiddle h2 {
+        color: black;
+        font-size: 17px;
+        font-weight: bold;
+    }
+    .lright h1 {
+        color: #53C0D5;
+        font-size: 12px;
+        font-weight: 700;
+        text-align: center;
+    }
+
+
+}
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+    header {
+        min-height: 80px;
+        background: black;
+        padding: 10px 0;
+    }
+    .right_part h1 {
+        color: white;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .logo_img {
+        padding-left: 5px;
+        margin-top: 8px;
+    }
+    .mid_part hr {
+        width: 40%;
+        border: 3px dashed white;
+        margin-top: 31px;
+        margin-right: 63px;
+    }
+    .last_part h1 {
+        position: absolute;
+        font-size: 18px;
+        color: white;
+        font-weight: bold;
+        margin-left: -50px;
+        margin-top: 18px;
+    }
+    .btn1 {
+        margin-left: 31%;
+        border: none;
+        background: white;
+        font-size: 25px;
+        font-weight: bold;
+        border-radius: 5px;
+        margin-top: 10px;
+    }
+    .btn2 {
+        border: none;
+        background: white;
+        font-size: 23px;
+        font-weight: bold;
+        border-radius: 5px;
+        margin-left: 61px;
+        margin-top: 7px;
+    }
+    .join_text p {
+        margin: 15px 80px;
+        color: #E5007D;
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .money_box h3 {
+        color: #E3000F;
+        padding: 5px 5px;
+        font-size: 10px;
+        font-weight: bold;
+    }
+    .crowd_right h2 {
+        font-family: 'Lora', serif;
+        font-size: 17px;
+        font-weight: bold;
+        padding: 10px 0;
+    }
+    .crowd_right h3 {
+
+        font-family: 'Lora', serif;
+        font-size: 15px;
+        font-weight: bold;
+
+    }
+    .crowd_right h4 {
+        font-family: 'Lora', serif;
+        font-size: 15px;
+        font-weight: bold;
+        color: #E3000F;
+    }
+    .crowd_right h5 {
+        font-family: 'Lora', serif;
+        font-size: 16px;
+        font-weight: bold;
+        padding: 15px 0;
+    }
+    .formula {
+        min-height: 250px;
+        background: white;
+        padding: 20px 0;
+    }
+
+    .formula_text h1 {
+        color: black;
+        font-size: 30px;
+        font-weight: 400;
+        text-transform: uppercase;
+    }
+    .formula_text h2 {
+        color: black;
+        font-size: 30px;
+        font-weight: 400;
+        text-transform: uppercase;
+    }
+    .crowd_img {
+        min-height: 200px;
+        padding: 30px 0;
+    }
+    .navstwo {
+        min-height: 50px;
+        background: #FFED00;
+    }
+    .menu_bar h1 {
+        font-size: 10px;
+        color: black;
+        font-weight: bold;
+        padding: 33px 0;
+    }
+    .last {
+        min-height: 100px;
+        background-color: whitesmoke;
+        padding: 10px 0;
+    }
+    .lleft h2 {
+        color: #E3000F;
+        font-size: 10px;
+        font-weight: bold;
+    }
+    .lleft h1 {
+        color: black;
+        font-size: 7px;
+        font-weight: bold;
+    }
+    .lmiddle h1 {
+        color: #E3000F;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .lmiddle h2 {
+        color: black;
+        font-size: 10px;
+        font-weight: bold;
+    }
+    .lright h1 {
+        color: #53C0D5;
+        font-size: 8px;
+        font-weight: 700;
+        text-align: center;
+    }
+
+}
+
+
+@media (max-width: 575.98px) {
+
+
+    header {
+        min-height: 100px;
+        background: black;
+        padding: 7px 0;
+    }
+    .right_part h1 {
+        color: white;
+        font-size: 20px;
+    }
+    .logo_img {
+        padding: 10px 10px;
+    }
+    .mid_part hr {
+        border: 3px dashed white;
+    }
+    .btn2 {
+        border: none;
+        background: white;
+        font-size: 25px;
+        font-weight: bold;
+        border-radius: 5px;
+        margin-left: 55px;
+    }
+    .slider {
+        min-height: 270px;
+        background: white;
+        padding: 30px 0;
+    }
+    .slider_text h1 {
+        font-family: 'Lora', serif;
+        font-size: 20px;
+        font-weight: 700;
+        color: #E3000F;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+        padding: 20px 0;
+    }
+    .slider_text p {
+        color: black;
+        font-size: 14px;
+        font-family: 'Lora', serif;
+        font-weight: 400;
+    }
+    .slider_text h2 {
+        font-family: 'Lora', serif;
+        font-weight: 700;
+        color: #F07C00;
+        font-size: 25px;
+    }
+    .crowd_head h1 {
+        font-family: 'Lora', serif;
+        font-size: 25px;
+        font-weight: 700;
+        color: #E3000F;
+        text-transform: uppercase;
+        letter-spacing: 10px;
+    }
+    .formula_head h1 {
+        font-family: 'Lora', serif;
+        font-size: 20px;
+        font-weight: 700;
+        color: #00963F;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+        padding: 20px 0;
+    }
+    .formula_text h1 {
+        color: black;
+        font-size: 20px;
+        font-weight: 400;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    .formula_text h2 {
+        color: black;
+        font-size: 20px;
+        font-weight: 400;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    .formula_img {
+        text-align: center;
+    }
+    .navstwo {
+        min-height: 20px;
+        background: #FFED00;
+    }
+    .menu_bar {
+        min-height: 5-x;
+    }
+    .menu_bar h1 {
+        font-size: 10px;
+        color: black;
+        font-weight: bold;
+        text-align: center;
+    }
+
+
+    .last {
+        min-height: 100px;
+        background-color: whitesmoke;
+    }
+    .lleft h2 {
+        color: #E3000F;
+        font-size: 10px;
+        font-weight: bold;
+    }
+    .lleft h1 {
+        color: black;
+        font-size: 10px;
+        font-weight: bold;
+    }
+    .lmiddle {
+        text-align: center;
+    }
+    .lmiddle h1 {
+        color: #E3000F;
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .lmiddle h2 {
+        color: black;
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .icons {
+
+        text-align: center;
+
+    }
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+/*/ Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { ... }
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+/*@media (min-width: 1200px) { ... } */
